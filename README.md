@@ -156,3 +156,11 @@ Finns två tillväga gång sätt. Antingen ta den första promot som kommer upp.
 Har Add new forest, Root domain name blir SimonHomeLab.com > Domain Controller Oprions skriver vi in lösenord Password123! samma som Win-DC. Ingen Create DNCS delegation tar bara next. NetBIOS blir SIMONHOMELAB auto genererat, paths och next, next på Revew options och i chek tar vi Install
 
 ![image](https://user-images.githubusercontent.com/42642927/217560673-c32d9b0d-4083-4583-ad67-133e379f294f.png)
+
+Gör instalationen utav Admin Center.
+
+![image](https://user-images.githubusercontent.com/42642927/217562363-41e790f4-dcf2-4b2e-ae56-e142ae14e32d.png)
+
+Vi vill inte ha singel pont off failer så jag väller att i Win-2x-DC att repetera stegen ovan med en förändring. 
+
+Acceptera villkor, oblikatorriska diagnostikdata, välljer att inte använda microsoft update, Välj port 1030 och instalera. 
