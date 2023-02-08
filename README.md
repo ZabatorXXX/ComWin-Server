@@ -58,7 +58,7 @@ samtliga enheter, bortsett från de ni redan genomfört:
 - Koppla ihop en infrastruktur med Microsoft Defender for Cloud via Admin Center
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 VSwitch.....
 
@@ -144,3 +144,13 @@ Vi blir tvungna att skriva i gateway om vi bara tar enter blir det Cancel som bl
 Gör om så vi kommer till network adapter settings. 8 > 1
 Nu väljer vi två, 2) Set DNS servers. vilket blir 192.168.1.250 från tidigare. Enter wnter för vi vill inte ha någon alternet dns. 
 
+#### Active Directory Domain Service
+ 
+ 
+I Win-DC > Server Manager > går jag till Manage. Add roles and Features > Role-based or feature-based instalation > Win DC som server selection > Server Roles [X] i Active Directory Domain Services > Add Features > Next, Next, Next > Install
+
+Vi kommer vara tvungna att uppdatera serven till Domain Controller.
+Finns två tillväga gång sätt. Antingen ta den första promot som kommer upp. eller tar vi oss upp till flaggan och väljer där.
+![image](https://user-images.githubusercontent.com/42642927/217545148-b8183dc6-c411-428f-b7e9-d0736b61dc93.png)
+
+Har Add new forest, Root domain name blir SimonHomeLab.com > Domain Controller Oprions skriver vi in lösenord Password123! samma som Win-DC. Ingen Create DNCS delegation tar bara next. NetBIOS blir SIMONHOMELAB auto genererat, paths och next, next på Revew options och i chek tar vi Install
