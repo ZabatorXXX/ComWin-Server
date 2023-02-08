@@ -96,18 +96,24 @@ När de frågar om man vill tillåta nätverket bli sed utav andtraa tar jag YES
 ![image](https://user-images.githubusercontent.com/42642927/217508597-a8497c95-3f64-436a-a55f-8bd6a694439f.png)
 
 När jag väll är inlogag i datorerna gör jag några somå kofigueringar för att snygga upp miljön.
+
 1. Bytter namn på enheterna. 
 
 Gå till local server computer name och i trycker jag på change. Namnen på servrarna blir:
 * Win-DC = Win DC
-* Win-DCC = Win-DCC
 * Win-2x-DC = Win-2x-DC
 
 När namnm är vall startar serven om och välj anslute igen.
 
-På DC:
+På DC servrarna ser det ut så här:
 ![image](https://user-images.githubusercontent.com/42642927/217512017-8481645a-f170-43df-a151-989204060803.png)
 
+På DCC serven ska vi få namn Win-DCC:
+
+Enter number to select an opption: skriver vi 2 för 2)Computer name: .
+Väljer att skriva i ett namn  (blank=Cancel): Win-DCC
+Frågar om restart now? (Y)es or (N)o: Srkiver vi in Y och enter.
+Och välj anslute igen.
 
 
 STEG två i processen. Se till att enheterna som skapade kan kommunicera med varandra över det lokala med egne ip på nätverket.
@@ -124,5 +130,17 @@ OK
 
 ![image](https://user-images.githubusercontent.com/42642927/217515642-4a143b88-20fb-411c-9ed3-33a2fba9c63b.png)
 
+Win -2x-DC:
+* Ip address: 192.168.1.254
+* Subnet mask: 255.255.255.0
+* Preferd DNS Server: 192.168.1.250
 
-Win-DCC
+
+I Win-DCC går vi till nr.8. "8) Network settings"
+Select network adapter index # (Blank=Cancel): nr1. för index 1
+Väljer 1 för: 1) Set network adapter address och för selection skiver vi S -> (S)tatic IP address, för statis ip. 
+De frågar om  Enter static IP address (Blank=Cancel): som blir, 192.168.1.252 enter två gonger för vi vill ha sunbetmasken  som recomenderas. 
+Vi blir tvungna att skriva i gateway om vi bara tar enter blir det Cancel som blank. Värdet för gatewayn blir 0.0.0.0 och enter enter.
+Gör om så vi kommer till network adapter settings. 8 > 1
+Nu väljer vi två, 2) Set DNS servers. vilket blir 192.168.1.250 från tidigare. Enter wnter för vi vill inte ha någon alternet dns. 
+
