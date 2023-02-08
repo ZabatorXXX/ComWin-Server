@@ -154,3 +154,5 @@ Finns två tillväga gång sätt. Antingen ta den första promot som kommer upp.
 ![image](https://user-images.githubusercontent.com/42642927/217545148-b8183dc6-c411-428f-b7e9-d0736b61dc93.png)
 
 Har Add new forest, Root domain name blir SimonHomeLab.com > Domain Controller Oprions skriver vi in lösenord Password123! samma som Win-DC. Ingen Create DNCS delegation tar bara next. NetBIOS blir SIMONHOMELAB auto genererat, paths och next, next på Revew options och i chek tar vi Install
+
+![image](https://user-images.githubusercontent.com/42642927/217560673-c32d9b0d-4083-4583-ad67-133e379f294f.png)
