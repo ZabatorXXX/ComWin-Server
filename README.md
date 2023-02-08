@@ -92,6 +92,7 @@ Win-DCC - Password1234!
 Win-2x-DC - Password12345!
 
 När de frågar om man vill tillåta nätverket bli sed utav andtraa tar jag YES.
+
 ![image](https://user-images.githubusercontent.com/42642927/217508597-a8497c95-3f64-436a-a55f-8bd6a694439f.png)
 
 
