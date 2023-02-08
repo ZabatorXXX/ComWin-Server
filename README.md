@@ -69,4 +69,12 @@ Två Windows Datacenter 2022 Desktop Exeprience & en Windows Datacenter 2022 Cor
 
 Generation 2 servrar som använder sig utav 2048 i startminne, i konfigurera  nätver använder jag VSwitch, Virtuel hårdisk på 64 GB som sparas i en ny sdd disk jag inte anänder. opperativ systemet är en iso fil SERVER_EVAL_x64FRE_en-us.iso.   
 
+När jag startar upp alla servrar trycker man enter när den frågar om ordisk bios. 
+När de frågar om språk för instalationen väljer jag. Svenska som tid och valuta format. Snabbar till med att trycka in (sw) för att snabbare ta sig till sweden. När det har blivit valt väljer den svenska som tagentbord. 
+
+![image](https://user-images.githubusercontent.com/42642927/217502697-38408719-9a89-41ba-a856-94bcb0720ebe.png)
+
+Efter det väljer jag vilken typ av servrar vi ska ha.  2x Windows Datacenter 2022 Desktop Exeprience  & 1x Windows Datacenter 2022 Core.
+
+![image](https://user-images.githubusercontent.com/42642927/217504280-6685e642-b32c-4d28-bcc6-1d7b4651f814.png)
 
