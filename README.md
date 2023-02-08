@@ -95,7 +95,30 @@ När de frågar om man vill tillåta nätverket bli sed utav andtraa tar jag YES
 
 ![image](https://user-images.githubusercontent.com/42642927/217508597-a8497c95-3f64-436a-a55f-8bd6a694439f.png)
 
+När jag väll är inlogag i datorerna gör jag några somå kofigueringar för att snygga upp miljön.
+1. Bytter namn på enheterna. 
 
-STEG två i processen. Se till att enheterna som skaapade kan kommunicera med varandra över det lokala med egne ip på nätverket.
+Gå till local server computer name och i trycker jag på change. Namnen på servrarna blir:
+* Win-DC = Win DC
+* Win-DCC = Win-DCC
+* Win-2x-DC = Win-2x-DC
+
+När namnm är vall startar serven om och välj anslute igen.
+
+![image](https://user-images.githubusercontent.com/42642927/217512017-8481645a-f170-43df-a151-989204060803.png)
 
 
+
+STEG två i processen. Se till att enheterna som skapade kan kommunicera med varandra över det lokala med egne ip på nätverket.
+
+I server Win-DC går jag till Local server > ethernet > network connections > ethernet >  Ethernet satus > propeties > tar bort ipv6 > går till ipv4 > dubelklikar på ipv4 > Use following ip address:
+
+* Ip address: 192.168.1.250
+* Subnet mask: 255.255.255.0
+
+Use the following DNS server addres:
+* Preferd DNS Server: 192.168.1.250
+
+OK
+
+![image](https://user-images.githubusercontent.com/42642927/217515642-4a143b88-20fb-411c-9ed3-33a2fba9c63b.png)
