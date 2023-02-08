@@ -105,6 +105,7 @@ Gå till local server computer name och i trycker jag på change. Namnen på ser
 
 När namnm är vall startar serven om och välj anslute igen.
 
+På DC:
 ![image](https://user-images.githubusercontent.com/42642927/217512017-8481645a-f170-43df-a151-989204060803.png)
 
 
@@ -122,3 +123,6 @@ Use the following DNS server addres:
 OK
 
 ![image](https://user-images.githubusercontent.com/42642927/217515642-4a143b88-20fb-411c-9ed3-33a2fba9c63b.png)
+
+
+Win-DCC
