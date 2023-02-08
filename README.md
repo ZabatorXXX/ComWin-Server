@@ -86,3 +86,12 @@ Repeterar stegen för att få totalt två Windows Datacenter 2022 Desktop Exepri
 
 ![image](https://user-images.githubusercontent.com/42642927/217505846-c5964280-3803-4fd0-9474-245b98bcecc6.png)
 
+Sen komme de fråga om lössenord.
+Win-DC - Password123!
+Win-DCC - Password1234!
+Win-2x-DC - Password12345!
+
+När de frågar om man vill tillåta nätverket bli sed utav andtraa tar jag YES.
+![image](https://user-images.githubusercontent.com/42642927/217508456-a0b58f8c-16b9-472a-9758-58fb2ec6f046.png)
+
+
