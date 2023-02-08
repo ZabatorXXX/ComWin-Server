@@ -78,3 +78,6 @@ Efter det väljer jag vilken typ av servrar vi ska ha.  2x Windows Datacenter 20
 
 ![image](https://user-images.githubusercontent.com/42642927/217504280-6685e642-b32c-4d28-bcc6-1d7b4651f814.png)
 
+Sen när vi kommer till vilken typ av  instalation väljer vi. Custom:Install......
+
+![image](https://user-images.githubusercontent.com/42642927/217505229-2876c20b-96e8-41f3-bfa1-f34f02690181.png)
