@@ -56,3 +56,17 @@ När ni har samtliga lösningar implementerade bör ni ha en topologi som ser ut
 När detta sedan är på plats skall ni även addera följande grundläggande säkerhetsåtgärd för 
 samtliga enheter, bortsett från de ni redan genomfört:
 - Koppla ihop en infrastruktur med Microsoft Defender for Cloud via Admin Center
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+VSwitch.....
+
+
+Jag börjar med att använda hypver-v. 
+I hypper-v skappar jag upp tre nya servrar.
+Två Windows Datacenter 2022 Desktop Exeprience & en Windows Datacenter 2022 Core.
+
+Generation 2 servrar som använder sig utav 2048 i startminne, i konfigurera  nätver använder jag VSwitch, Virtuel hårdisk på 64 GB som sparas i en ny sdd disk jag inte anänder. opperativ systemet är en iso fil SERVER_EVAL_x64FRE_en-us.iso.   
+
+
