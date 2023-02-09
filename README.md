@@ -184,8 +184,20 @@ Skappar upp användare och användings grupp. I active directory users and compu
 
 - Simon Major och lössenord. WordPass123! och bytt lösenord nästa inlog.
 
-Går till domänen. Använder create new organizational unit in the current container. Namnger till HomeLab Group och bockar av accidental deletion. 
+Går till domänen. Använder create new organizational unit in the current container. Namnger till HomeLab ORG och bockar av accidental deletion. 
 
 ![image](https://user-images.githubusercontent.com/42642927/217867360-612916b3-012a-434d-9a84-c906cf7b367f.png)
 
-Flyttar användaren till gruppen. Och flyttar Win-DCC och Win-2x-DC till gruppen.
+Flyttar användaren till organisationen. Och flyttar Win-DCC och Win-2x-DC dit.Skappar upp en grup som nämnder til Lab-Department till organisationen. 
+
+![image](https://user-images.githubusercontent.com/42642927/217889911-5d3cc6cb-c7df-4a96-95fd-424c09a315b8.png)
+
+Lägger till Simon in i gruppen,
+
+![image](https://user-images.githubusercontent.com/42642927/217890141-2719b801-9676-4d55-a11f-c6e6a00c09f1.png)
+
+Gör att alla i gruppen blir admin. 
+
+![image](https://user-images.githubusercontent.com/42642927/217890624-f3d7f4e6-8b1a-4933-b468-e923635dec63.png)
+
+Ser till att Win-DC är med i den globbala controlen. 
