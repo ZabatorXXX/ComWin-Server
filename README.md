@@ -178,4 +178,14 @@ Gör servrarna tillgägnliga på Win-DC Genom, All server > höger click och add
 
 ![image](https://user-images.githubusercontent.com/42642927/217864745-73e62221-cdb1-4fbc-881d-ec2296599925.png)
 
+Skappar upp användare och användings grupp. I active directory users and computers. 
 
+![image](https://user-images.githubusercontent.com/42642927/217865806-ab6e7563-b735-4824-b575-6018a8b17562.png)
+
+- Simon Major och lössenord. WordPass123! och bytt lösenord nästa inlog.
+
+Går till domänen. Använder create new organizational unit in the current container. Namnger till HomeLab Group och bockar av accidental deletion. 
+
+![image](https://user-images.githubusercontent.com/42642927/217867360-612916b3-012a-434d-9a84-c906cf7b367f.png)
+
+Flyttar användaren till gruppen. Och flyttar Win-DCC och Win-2x-DC till gruppen.
