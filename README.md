@@ -214,3 +214,5 @@ Går in i pwoershell och skriver in gpupdate
 Lägger till Simon för remote dektop till Win DC, Win-2x-DC
 
 ![image](https://user-images.githubusercontent.com/42642927/217895424-87bf7217-05da-447d-a568-c2c6ff16c17d.png)
+
+![image](https://user-images.githubusercontent.com/42642927/217895738-fbf6051b-4e2e-4278-8e72-c461f5ff8e38.png)
