@@ -164,3 +164,5 @@ Gör instalationen utav Admin Center.
 Vi vill inte ha singel pont off failer så jag väller att i Win-2x-DC att repetera stegen ovan med en förändring. 
 
 Acceptera villkor, oblikatorriska diagnostikdata, välljer att inte använda microsoft update, Välj port 1030 och instalera. 
+
+Lägger in Win-DCC i workgrupp genom att skriva 1 för att ta min till "1)Domain/Workgroup" W för Join workgroup. Och skriver in SIMONHOMELAB och startar om med Y
