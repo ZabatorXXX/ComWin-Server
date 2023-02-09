@@ -161,8 +161,21 @@ Gör instalationen utav Admin Center.
 
 ![image](https://user-images.githubusercontent.com/42642927/217562363-41e790f4-dcf2-4b2e-ae56-e142ae14e32d.png)
 
-Vi vill inte ha singel pont off failer så jag väller att i Win-2x-DC att repetera stegen ovan med en förändring. 
+####### Vi vill inte ha singel pont off failer så jag väller att i Win-2x-DC att repetera stegen ovan med en förändring.  ########
 
 Acceptera villkor, oblikatorriska diagnostikdata, välljer att inte använda microsoft update, Välj port 1030 och instalera. 
 
-Lägger in Win-DCC i workgrupp genom att skriva 1 för att ta min till "1)Domain/Workgroup" W för Join workgroup. Och skriver in SIMONHOMELAB och startar om med Y
+Lägger in Win-DCC i domänen genom att skriva 1 för att ta min till "1)Domain/Workgroup" D för Join workgroup. Och skriver in SimonHomeLab.com  och logar in med administrator konto.
+Lägger in Win-2x-DC i Domain. Settings, system about, advanced system settings, computer name, change, meber of... Domain: SimonHomeLab.com .
+
+Märkte att jag var tvungen att änrda minna internet inställningar eftersom min Lokala  gatewy på hemnetet var anorlunda en de på serverrarna och skappade något problem att komma ut på internte. Så jag ändrar ip till DHCP ser till att ip adresserna fungera under samma DNS  10.0.100.48. IP på DCC är 10.0.100.52, Win-2x-DC 10.0.100.56.
+
+Anledning var 1. internet och 2. närst kommande steg.
+
+![image](https://user-images.githubusercontent.com/42642927/217864281-41f8df24-c093-41d3-a717-d3044754e391.png)
+
+Gör servrarna tillgägnliga på Win-DC Genom, All server > höger click och add server till Win-DCC och Win-2x-DC.
+
+![image](https://user-images.githubusercontent.com/42642927/217864745-73e62221-cdb1-4fbc-881d-ec2296599925.png)
+
+
