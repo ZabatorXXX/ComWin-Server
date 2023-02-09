@@ -207,3 +207,5 @@ Och lägger till gruppen i Win-DC
 ![image](https://user-images.githubusercontent.com/42642927/217891786-622e6e2a-2ff3-4dd3-bc4d-7da2d37d18bf.png)
 
 Går in i pwoershell och skriver in gpupdate
+
+![image](https://user-images.githubusercontent.com/42642927/217892632-f50b15ed-7682-460f-8bc7-e4d5d6d9b2a9.png)
