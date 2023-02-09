@@ -201,3 +201,9 @@ Gör att alla i gruppen blir admin.
 ![image](https://user-images.githubusercontent.com/42642927/217890624-f3d7f4e6-8b1a-4933-b468-e923635dec63.png)
 
 Ser till att Win-DC är med i den globbala controlen. 
+
+Och lägger till gruppen i Win-DC 
+
+![image](https://user-images.githubusercontent.com/42642927/217891786-622e6e2a-2ff3-4dd3-bc4d-7da2d37d18bf.png)
+
+Går in i pwoershell och skriver in gpupdate
