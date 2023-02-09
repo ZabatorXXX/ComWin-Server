@@ -209,3 +209,8 @@ Och lägger till gruppen i Win-DC
 Går in i pwoershell och skriver in gpupdate
 
 ![image](https://user-images.githubusercontent.com/42642927/217892632-f50b15ed-7682-460f-8bc7-e4d5d6d9b2a9.png)
+
+
+Lägger till Simon för remote dektop till Win DC, Win-2x-DC
+
+![image](https://user-images.githubusercontent.com/42642927/217895424-87bf7217-05da-447d-a568-c2c6ff16c17d.png)
