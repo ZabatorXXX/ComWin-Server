@@ -52,7 +52,7 @@ expandera vid framtida behov (Azure VM)
 - Bättre sync av datan som lagras (Azure File Sync)
 När ni har samtliga lösningar implementerade bör ni ha en topologi som ser ut som följande:
 
-![image](https://user-images.githubusercontent.com/42642927/217272926-4fea0c8b-ccba-4ce6-b89a-f2bd6f2ede54.png)
+(Bild)
 
 När detta sedan är på plats skall ni även addera följande grundläggande säkerhetsåtgärd för 
 samtliga enheter, bortsett från de ni redan genomfört:
