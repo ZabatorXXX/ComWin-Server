@@ -1,25 +1,30 @@
 
 Create V Net
 
-![Create_v-Net2](https://user-images.githubusercontent.com/42642927/226190313-632d071c-5414-4d0f-9b97-57323cb9609a.png)
+### 1. Create New Resource Group 
+
+![image](https://user-images.githubusercontent.com/42642927/227194038-637f2c41-a6f9-4720-baf1-0d315f3986bf.png)
+
+### 2. Name the Vnet 
+
+![image](https://user-images.githubusercontent.com/42642927/227194484-fc0087de-7fe1-4f94-ba47-82b2b6f70fbf.png)
+
+### 3. Choose location
+![image](https://user-images.githubusercontent.com/42642927/227194683-8e04bea6-63e8-46d2-bdc2-e788849a85ef.png)
 
 
-![network](https://user-images.githubusercontent.com/42642927/226190328-47cb0917-93be-418c-a0db-57484464e61e.png)
+### 4.Strat with Ip configuration
+![image](https://user-images.githubusercontent.com/42642927/227195927-bba5e9d0-2895-43b1-a0b4-082df4d5997d.png)
 
-![image](https://user-images.githubusercontent.com/42642927/226191248-8c6f99dd-901a-45b5-8f76-5c7b3d9a881e.png)
+### 5. Create subnet
+![image](https://user-images.githubusercontent.com/42642927/227196651-f991f34a-7ed1-4c8e-86b5-ff7452f338c9.png)
 
-![image](https://user-images.githubusercontent.com/42642927/226203600-121da7e1-8d37-4a2c-92da-aa7b6a6bae52.png)
+### 6. Review + create
+![image](https://user-images.githubusercontent.com/42642927/227198050-914c5399-7a78-4008-8d86-804e0b07c2e4.png)
+
 
 AzuerUser
 
 Password12345!
 
-![image](https://user-images.githubusercontent.com/42642927/226203914-a485f80f-4411-4085-9178-377497edf181.png)
 
-
-![image](https://user-images.githubusercontent.com/42642927/226215834-0f7ff7b0-631e-4840-ae4c-3f5493241928.png)
-
-
-![image](https://user-images.githubusercontent.com/42642927/226216294-44d3b999-51d8-41a5-bdfc-efc031b10619.png)
-
-![image](https://user-images.githubusercontent.com/42642927/226216377-01e5a2ef-3e78-4f0b-a2b7-469ec88f9931.png)
