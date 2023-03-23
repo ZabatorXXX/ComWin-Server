@@ -33,7 +33,7 @@ When ask in desktop experience to Select YES on question if I want to allow my n
 
 ---
 
-## Part 2 Visual changes
+## Visual changes to the VM
 
 Now when we have set up the local VM it would be a good thing to nicening up them.  
 
@@ -68,4 +68,5 @@ On Windows Datacenter Core the following has to be done to change server name.  
 ![image](https://user-images.githubusercontent.com/42642927/227316136-14d50ced-c173-4ed7-b0d7-8d3e69da9c9c.png)
 
 ---
+
 
