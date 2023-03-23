@@ -1,5 +1,5 @@
 
-# Part 1
+## Part 1 Creating the VMS
 
 Start with opening Hyper-V on my local computer. In Hyper-V I created three new servers. Two Windows Datacenter 2022 Desktop Desktop Experience and one Windows Datacenter 2022 Core. 
  
@@ -29,3 +29,9 @@ When asked to create password, I choose to have a simple password, but they shou
 When ask in desktop experience to Select YES on question if I want to allow my network to discover other on the network.
 
 ![image](https://user-images.githubusercontent.com/42642927/217508597-a8497c95-3f64-436a-a55f-8bd6a694439f.png)
+
+
+---
+
+## Part 2 Making changes to the VMS
+
