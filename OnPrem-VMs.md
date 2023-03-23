@@ -15,7 +15,7 @@ For two off the server, I select Windows Datacenter 2022 Desktop Experience and 
 
 Type off installation is Custom installation and select next.
 
-![image](https://user-images.githubusercontent.com/42642927/217505229-2876c20b-96e8-41f3-bfa1-f34f02690181.png)
+![image](https://user-images.githubusercontent.com/42642927/227269220-8a23872e-d986-4f8e-8cce-83d6b9ede402.png)
 
 Repeated the possess to have in total: 
 
