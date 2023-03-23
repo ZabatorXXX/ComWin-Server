@@ -49,11 +49,8 @@ It will direct you to system properties. Here we press “Change” type in each
 
 On Windows Datacenter Core the following has to be done to change server name.  
 
-On line "Enter number to select an option:" we type number 2, two for "Computer name:". Type Win-Dcc and enter and Y for restart now.
+On line "Enter number to select an option:" we type number 2, two for "Computer name:". Type WIN-DCC and enter and Y for restart now.
 ![image](https://user-images.githubusercontent.com/42642927/227312271-f55ccc37-0c5c-4454-a6f5-fc546bb9b965.png)
-
-
-![image](https://user-images.githubusercontent.com/42642927/227315926-21bf2046-7a9c-470d-a3ef-20ee353dd483.png)
 
 On Windows Datacenter Core the following has to be done to change server name.  After restarting it should look something like:
 
