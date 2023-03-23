@@ -44,12 +44,12 @@ To do this we will go to Server Manager\Local Server.  Click on the current name
 
 ![image](https://user-images.githubusercontent.com/42642927/227279012-8c568d1c-f513-4ee4-8483-1eeb1d72ac1e.png)
 
-It will direct you to system properties. Here we press “Change” type in each name. The server names given to VM is Win-DC = Win DC, Win-2x-DC and Win-DCC. Example on Desktop Experience: 
+It will direct you to system properties. Here we press “Change” type in each name. The server names given to the VMs is Win-DC, Win-2x-DC and Win-DCC. Example on Desktop Experience: 
 ![image](https://user-images.githubusercontent.com/42642927/227279375-9ca0efdf-e9b7-4cd4-8882-ac02f88e03e9.png)
 
 On Windows Datacenter Core the following has to be done to change server name.  
 
-On line "Enter number to select an option:" we type number 2, two for "Computer name:". Type WIN-DCC and enter and Y for restart now.
+On line "Enter number to select an option:" we type number 2, two for "Computer name:". Type Win-DCC and enter and Y for restart now.
 ![image](https://user-images.githubusercontent.com/42642927/227312271-f55ccc37-0c5c-4454-a6f5-fc546bb9b965.png)
 
 On Windows Datacenter Core the following has to be done to change server name.  After restarting it should look something like:
