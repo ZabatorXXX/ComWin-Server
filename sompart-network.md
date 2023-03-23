@@ -48,6 +48,10 @@ Create V Net
 ### 11. Review + create 
 ![image](https://user-images.githubusercontent.com/42642927/227211187-97c7a8f6-082c-4188-a1c1-15e11ce5cece.png)
 
+### 12. Open PowerShell and create Self-sign root - client certificate 
+
+'''  $cert = New-SelfSignedCertificate -Type Custom -KeySpec Signature -Subject "CN=WinSec" -KeyExportPolicy Exportable -HashAlgorithm sha256 -KeyLength 2048 -CertStoreLocation "Cert:\CurrentUser\My" -KeyUsageProperty Sign -KeyUsage CertSign '''
+
  
 
 AzuerUser
