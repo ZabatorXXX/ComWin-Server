@@ -26,7 +26,7 @@ One Windows Datacenter 2022 Core
 
 When asked to create password, I choose to have a simple password, but they should vary. The first password was for Win-DC = Password123! then on Win-DCC = Password1234! and on Win-2x-DC = Password12345! . 
 
-When ask in desktop experience to Select YES on question if I want to allow my network to discover other on the network.
+Select Yes when ask in desktop experience if I want to allow my network to discover other on the network.
 
 ![image](https://user-images.githubusercontent.com/42642927/217508597-a8497c95-3f64-436a-a55f-8bd6a694439f.png)
 
@@ -68,5 +68,9 @@ On Windows Datacenter Core the following has to be done to change server name.  
 ![image](https://user-images.githubusercontent.com/42642927/227316136-14d50ced-c173-4ed7-b0d7-8d3e69da9c9c.png)
 
 ---
+
+## 3. Connecting VMs to one domain
+
+
 
 
