@@ -33,5 +33,19 @@ When ask in desktop experience to Select YES on question if I want to allow my n
 
 ---
 
-## Part 2 Making changes to the VMS
+## Part 2 Visual changes
+
+Now when we have set up the local VM it would be a good thing to nicening up them.  
+
+
+1. Change Commuter Names 
+
+To do this we will go to Server Manager\Local Server.  Click on the current name. 
+
+![image](https://user-images.githubusercontent.com/42642927/227279012-8c568d1c-f513-4ee4-8483-1eeb1d72ac1e.png)
+
+It will direct you to system propeties. 
+![image](https://user-images.githubusercontent.com/42642927/227279375-9ca0efdf-e9b7-4cd4-8882-ac02f88e03e9.png)
+
+
 
