@@ -87,5 +87,8 @@ In the server manager goes to Local Server. Press on Workgroup it will take me t
 ![image](https://user-images.githubusercontent.com/42642927/227806463-5f4004bb-5a2e-4c52-a2d1-9bd6203a5b28.png)
 
 Logg in with the administrator 
+We can all get domain from settings > about then system protection or advanced system settings then computer name. We should be in system Propeties. And change for domain could all so change name.  
+
+ ![image](https://user-images.githubusercontent.com/42642927/227808319-d047b1aa-9750-4b1b-b93e-8722d8c14288.png)
 
 I download Active Directory Domain Services on Win-2x-DC 
