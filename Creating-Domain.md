@@ -43,3 +43,5 @@ Select “Use the following IP address” paste in the values:
 * Subnet Mask: 255.255.255.0 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56. 
+
+# 2. Adding Server roles and features 
