@@ -19,11 +19,11 @@ And save.
 * Win-DCC:
 
 Sing in on Win-DCC. In “Enter number to select an option: “I want to go to number eight for, 8) Network settings. Which directs me to this: 
-![image](https://user-images.githubusercontent.com/42642927/227747114-06152bc2-de45-4bd4-a797-63ae9fe585e9.png)
+![image](https://user-images.githubusercontent.com/42642927/227775636-d6bdb197-accc-46bb-9f63-938f46d062f5.png)
 
 In “Select network adapter index # (Blank=Cancel):” use index number 1.  It gives me a new page.
 
-![image](https://user-images.githubusercontent.com/42642927/227747150-eb686719-44d8-4b9a-92da-ed4d5235da7c.png)
+![image](https://user-images.githubusercontent.com/42642927/227775721-ffa9492e-261e-45b1-be90-c266cf777737.png)
 
 At line “Enter selection (Blank=Cancel):” use one to go to 1) Set network adapter address. Asks “Select (D)HCP or (S)tatic IP address (Blank=Cancel):” Were we type S for static IP. In “Enter static IP address (Blank=Cancel):” I type the Ip: 10.0.100.57 and enter twice as we want to use 255.255.255.0 which= to 255.255.255.0. When asked “Enter default gateway (Blank=Cancel):” we want to skip this, but we must type in value: 0.0.0.0
 
@@ -39,7 +39,7 @@ Get the Ip form ipconfig in cmd.
 
 Select “Use the following IP address” paste in the values: 
 
-IP address: 10.0.100.58 
+IP address: changing 10.0.100.59 to 10.0.100.58 
 Subnet Mask: 255.255.255.0 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56. 
