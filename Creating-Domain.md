@@ -39,7 +39,7 @@ Get the Ip form ipconfig in cmd.
 
 Select “Use the following IP address” paste in the values: 
 
-IP address: changing 10.0.100.59 to 10.0.100.58 
+IP address: changing 10.0.100.59 > 10.0.100.58 
 Subnet Mask: 255.255.255.0 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56. 
