@@ -50,6 +50,7 @@ In Win-DC go to Server Manager then “Manage” button. Add roles and Features 
 
 ![image](https://user-images.githubusercontent.com/42642927/217545148-b8183dc6-c411-428f-b7e9-d0736b61dc93.png)
 
+```
 . Domain controller options:  
 ├── Deployment configuration 
 │   └── First select deployment operation “Add a new forest” and Root domain name to be SimonHomeLab.com 
@@ -71,7 +72,8 @@ In Win-DC go to Server Manager then “Manage” button. Add roles and Features 
 │
 ├── Prerequisites Chek  
     └── Wait for it to verify and install. 
- 
+```
+
 Server will restart 
 
 Sign back in as Administrator – Password123! 
