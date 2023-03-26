@@ -1,7 +1,7 @@
 
 ## 1. Setting up DNS configuration 
 
-* Win-DC:
+### Win-DC:
 
 Starting on Win-Dc I first go to cmd to get the IP that has been set. In cmd I type ipconfig that returns:
 
@@ -9,14 +9,14 @@ Starting on Win-Dc I first go to cmd to get the IP that has been set. In cmd I t
 
 Then go to Server Manager\Local Server – Ethernet > assigned by DHCP. Right click on Ethernet and go to Propeties. In Propeties I disable IPv6 and change settings in Ipv4 using Propeties. Select “Use the following IP address” paste in the values: 
 
-IP address: 10.0.100.56 
-Subnet Mask: 255.255.255.0 
+* IP address: 10.0.100.56 
+* Subnet Mask: 255.255.255.0 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56.
 
 And save. 
 
-* Win-DCC:
+### Win-DCC:
 
 Sing in on Win-DCC. In “Enter number to select an option: “I want to go to number eight for, 8) Network settings. Which directs me to this: 
 ![image](https://user-images.githubusercontent.com/42642927/227775636-d6bdb197-accc-46bb-9f63-938f46d062f5.png)
@@ -29,7 +29,7 @@ At line “Enter selection (Blank=Cancel):” use one to go to 1) Set network ad
 
 In "Enter selection (Blank=Cancel):" I type the value 2, for" 2) Set DNS servers". "Enter new preferred DNS server (Blank=Cancel):" I use 10.0.100.56 for DNS and use blank for "Enter alternate DNS server (Blank=None):". 
 
-* Win-2x-DC
+### Win-2x-DC
 
 For win-2x-DC I use the same method but changing the setting from a different part of the server settings. I go to Windows Settings > Network & Internet > In “Status” Select change adapter settings. Repeat previous steps - Right click on Ethernet and go to Propeties. In Propeties I disable IPv6 and change settings in Ipv4 using Propeties. 
 
@@ -39,7 +39,7 @@ Get the Ip form ipconfig in cmd.
 
 Select “Use the following IP address” paste in the values: 
 
-IP address: changing 10.0.100.59 > 10.0.100.58 
-Subnet Mask: 255.255.255.0 
+* IP address: changing 10.0.100.59 > 10.0.100.58 
+* Subnet Mask: 255.255.255.0 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56. 
