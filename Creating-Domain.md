@@ -44,4 +44,8 @@ Select “Use the following IP address” paste in the values:
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56. 
 
-# 2. Adding Server roles and features 
+# 2. Adding Server roles and features (Active Directory Domain Service)
+
+In Win-DC go to Server Manager then “Manage” button. Add roles and Features > Role-based or feature-based installation > Win DC as server selection > Server Roles [v] Active Directory Domain Services > Add Features > Next, Next, Next > Install 
+
+![image](https://user-images.githubusercontent.com/42642927/217545148-b8183dc6-c411-428f-b7e9-d0736b61dc93.png)
