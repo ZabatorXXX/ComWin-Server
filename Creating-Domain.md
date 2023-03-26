@@ -78,3 +78,12 @@ Server will restart
 
 Sign back in as Administrator – Password123! 
 
+## 3. Joining the domain / workgroup
+
+For the desktop version it can be done in server manager or through the settings. I will show you how to do both. Let us start by going through the server manager. 
+
+In the server manager goes to Local Server. Press on Workgroup it will take me to system properties, click change and change from workgroup to domain type in SimonHomeLab.com . 
+
+![image](https://user-images.githubusercontent.com/42642927/227806463-5f4004bb-5a2e-4c52-a2d1-9bd6203a5b28.png)
+
+Logg in with the administrator 
