@@ -49,3 +49,30 @@ For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56
 In Win-DC go to Server Manager then “Manage” button. Add roles and Features > Role-based or feature-based installation > Win DC as server selection > Server Roles [v] Active Directory Domain Services > Add Features > Next, Next, Next > Install 
 
 ![image](https://user-images.githubusercontent.com/42642927/217545148-b8183dc6-c411-428f-b7e9-d0736b61dc93.png)
+
+. Domain controller options:  
+├── Deployment configuration 
+│   └── First select deployment operation “Add a new forest” and Root domain name to be SimonHomeLab.com 
+│
+├── Domain controller options 
+│ └── Use standard values and add a password. The password I am going to be using is: Password123! .
+│
+├── DNS option 
+│   └── We do not create DNS delegation 
+│
+├── Additional option 
+│   └── NetBIOS domain name is SIMONHOMELAB. 
+│
+├── Paths 
+│   └── In paths we use standard values 
+│
+├── Review Options 
+│   └── Just Next. 
+│
+├── Prerequisites Chek  
+    └── Wait for it to verify and install. 
+ 
+Server will restart 
+
+Sign back in as Administrator – Password123! 
+
