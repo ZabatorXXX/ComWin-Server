@@ -14,8 +14,8 @@ We can see se the Vms under Tools virtual machines.
 
 And if we click on the we can se under Computer name:
 
-Win-DC = Win-DC.SimonHomeLab.com
-Win-2x-DC = Win-2x-DC.SimonHomeLab.com
-Win-DCC = Win-DCC.SimonHomeLab.com
+* Win-DC = Win-DC.SimonHomeLab.com
+* Win-2x-DC = Win-2x-DC.SimonHomeLab.com
+* Win-DCC = Win-DCC.SimonHomeLab.com
 
 ## 2. Remote access
