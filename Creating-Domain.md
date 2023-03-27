@@ -101,3 +101,9 @@ In line “Name of domain to join (Blank=Cancel):” we type out: SimonHomeLab.c
 Specify an authorized domain\user (Blank=Cancel): admin 
   Password for administator: ************ 
   Joining SimonHomeLab.com... 
+  
+![image](https://user-images.githubusercontent.com/42642927/227938072-7dc132fa-dda7-48d0-8de6-0355d78c3139.png)
+
+  Then restart. 
+
+And sign back in as:  .\administrator and password: Password1234! 
