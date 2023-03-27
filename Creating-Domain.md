@@ -102,7 +102,7 @@ Specify an authorized domain\user (Blank=Cancel): admin
   Password for administator: ************ 
   Joining SimonHomeLab.com... 
   
-![image](https://user-images.githubusercontent.com/42642927/227938072-7dc132fa-dda7-48d0-8de6-0355d78c3139.png)
+![image](https://user-images.githubusercontent.com/42642927/227938319-cc74119a-c382-42ae-8d08-af40bb3226d9.png)
 
   Then restart. 
 
