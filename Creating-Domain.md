@@ -92,3 +92,12 @@ We can all get domain from settings > about then system protection or advanced s
  ![image](https://user-images.githubusercontent.com/42642927/227808319-d047b1aa-9750-4b1b-b93e-8722d8c14288.png)
 
 I download Active Directory Domain Services on Win-2x-DC 
+
+Win-DCC
+
+n win-dcc “Enter number to select an option:” I type number 1 for “1) Domain/workgroup: “. Right now, the Workgroup is: WORKGROUP. We get asked “Join (D)omain or (W)orkgroup? (Blank=Cancel):” Were we type D for joining domain. 
+
+In line “Name of domain to join (Blank=Cancel):” we type out: SimonHomeLab.com 
+Specify an authorized domain\user (Blank=Cancel): admin 
+  Password for administator: ************ 
+  Joining SimonHomeLab.com... 
