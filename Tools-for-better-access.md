@@ -20,6 +20,9 @@ And if we click on the we can see under Computer name:
 
 ## 2. Remote access
 
+* Win-DC and Win-2x-DC
+
+* Win-DCC
 On Win-DCC in “Enter number to select an option:” we type 7. Seven for “7) Remote desktop:” it says “Disabled” so let's activate it.  We get asked “(E)nable or (D)isable Remote Desktop? (Blank=Cancel):” So type E. Then we get asked:   
 
 ![image](https://user-images.githubusercontent.com/42642927/227983583-c4ec95b6-8d70-4cc5-a01e-34d543e3f358.png)
