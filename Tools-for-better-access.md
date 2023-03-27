@@ -31,3 +31,7 @@ Were we select number one which is more secure. Now it says on nr.7:
 
 ![image](https://user-images.githubusercontent.com/42642927/227983706-3944e3c5-e622-4045-b0bc-4eabee0fa6d4.png)
 
+
+
+## 3. Connect to domain to Azuer AD 
+
