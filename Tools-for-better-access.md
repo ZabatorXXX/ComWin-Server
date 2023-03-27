@@ -36,7 +36,7 @@ Click on disabled and select the second option to enable it then press ok/apply.
 On Win-2x-DC I'm setting up remote desktop true “settings about” page.  
 ![image](https://user-images.githubusercontent.com/42642927/228092119-b4c63641-a469-4394-8124-a4dbbb08366e.png)
 
-Same here I select the second option to enable it then press ok/apply.
+Switching from off to on and apply to enable. 
 
 * Win-DCC
 On Win-DCC in “Enter number to select an option:” we type 7. Seven for “7) Remote desktop:” it says “Disabled” so let's activate it.  We get asked “(E)nable or (D)isable Remote Desktop? (Blank=Cancel):” So type E. Then we get asked:   
