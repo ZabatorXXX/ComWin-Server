@@ -12,10 +12,19 @@ We can see se the Vms under Tools virtual machines.
 
 ![image](https://user-images.githubusercontent.com/42642927/227977454-d48abbcd-3e99-4d53-9d7e-ad3810b82a75.png)
 
-And if we click on the we can se under Computer name:
+And if we click on the we can see under Computer name:
 
 * Win-DC = Win-DC.SimonHomeLab.com
 * Win-2x-DC = Win-2x-DC.SimonHomeLab.com
 * Win-DCC = Win-DCC.SimonHomeLab.com
 
 ## 2. Remote access
+
+On Win-DCC in “Enter number to select an option:” we type 7. Seven for “7) Remote desktop:” it says “Disabled” so let's activate it.  We get asked “(E)nable or (D)isable Remote Desktop? (Blank=Cancel):” So type E. Then we get asked:   
+
+![image](https://user-images.githubusercontent.com/42642927/227983583-c4ec95b6-8d70-4cc5-a01e-34d543e3f358.png)
+
+Were we select number one which is more secure. Now it says on nr.7:
+
+![image](https://user-images.githubusercontent.com/42642927/227983706-3944e3c5-e622-4045-b0bc-4eabee0fa6d4.png)
+
