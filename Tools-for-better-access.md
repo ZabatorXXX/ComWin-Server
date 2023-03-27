@@ -29,6 +29,10 @@ In server manager we go to Server Manager\Local Server. In the page we can see r
 
 ![image](https://user-images.githubusercontent.com/42642927/228087031-c4092906-e7c9-4706-aba3-fc8955e00d02.png)
 
+Click on disabled and select the second option to enable it then press ok/apply. 
+
+![image](https://user-images.githubusercontent.com/42642927/228087544-768cbde4-36c9-4e08-b857-49aa2b467047.png)
+
 
 * Win-DCC
 On Win-DCC in “Enter number to select an option:” we type 7. Seven for “7) Remote desktop:” it says “Disabled” so let's activate it.  We get asked “(E)nable or (D)isable Remote Desktop? (Blank=Cancel):” So type E. Then we get asked:   
