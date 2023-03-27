@@ -107,3 +107,7 @@ Specify an authorized domain\user (Blank=Cancel): admin
   Then restart. 
 
 And sign back in as:  .\administrator and password: Password1234! 
+
+Result:
+![image](https://user-images.githubusercontent.com/42642927/227949821-893b491e-de7d-4e70-be2a-7804930df7bd.png)
+
