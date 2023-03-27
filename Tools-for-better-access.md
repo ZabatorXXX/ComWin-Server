@@ -22,6 +22,14 @@ And if we click on the we can see under Computer name:
 
 * Win-DC and Win-2x-DC
 
+ 
+
+Win-DC I will show how to enable from server manager.
+In server manager we go to Server Manager\Local Server. In the page we can see remote desktop is disabled.
+
+![image](https://user-images.githubusercontent.com/42642927/228087031-c4092906-e7c9-4706-aba3-fc8955e00d02.png)
+
+
 * Win-DCC
 On Win-DCC in “Enter number to select an option:” we type 7. Seven for “7) Remote desktop:” it says “Disabled” so let's activate it.  We get asked “(E)nable or (D)isable Remote Desktop? (Blank=Cancel):” So type E. Then we get asked:   
 
