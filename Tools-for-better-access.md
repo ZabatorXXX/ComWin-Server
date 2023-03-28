@@ -58,4 +58,8 @@ On Win-DC I search for Azure AD connect on edge. Select Microsoft download page:
 
 ![image](https://user-images.githubusercontent.com/42642927/228100415-33d04d1d-0774-425e-8018-93b174ae0cd7.png)
 
+On the page I select the orange download button to download the application.   
 
+![image](https://user-images.githubusercontent.com/42642927/228237987-42b31f52-f565-44fd-b2d5-caf86a083a09.png)
+
+![image](https://user-images.githubusercontent.com/42642927/228240097-e6cb9d08-39a2-43f6-a959-b27d59dd3422.png)
