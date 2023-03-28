@@ -11,6 +11,7 @@ Then go to Server Manager\Local Server – Ethernet > assigned by DHCP. Right cl
 
 * IP address: 10.0.100.56 
 * Subnet Mask: 255.255.255.0 
+* Default gateway: 10.0.100.1 
 
 For "Use the following DNS server addresses:" I use the Ip address - 10.0.100.56.
 
