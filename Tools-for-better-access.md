@@ -52,5 +52,7 @@ Were we select number one which is more secure. Now it says on nr.7:
 
 
 
-## 3. Connect to domain to Azuer AD 
+## 3. Connect to domain to Azuer AD connect
+
+
 
