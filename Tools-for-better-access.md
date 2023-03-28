@@ -54,5 +54,8 @@ Were we select number one which is more secure. Now it says on nr.7:
 
 ## 3. Connect to domain to Azuer AD connect
 
+On Win-DC I search for Azure AD connect on edge. Select Microsoft download page: 
+
+![image](https://user-images.githubusercontent.com/42642927/228100415-33d04d1d-0774-425e-8018-93b174ae0cd7.png)
 
 
