@@ -12,3 +12,8 @@ Del 2.
 ![image](https://user-images.githubusercontent.com/42642927/228580026-701de689-c737-43f5-bfa4-69ec1c6ab5ef.png)
 
 https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#4-creating-users-for-the-domain 
+
+![image](https://user-images.githubusercontent.com/42642927/228581919-4de5daf7-28ed-4815-a020-25411b1c7e7a.png)
+
+https://github.com/ZabatorXXX/ComWin-Server/blob/main/Tools-for-better-access.md#2-remote-access
+
