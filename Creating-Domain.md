@@ -126,3 +126,7 @@ Click on Domain Admins so it is selected. Go to members and press “Add...” E
 
 ![image](https://user-images.githubusercontent.com/42642927/228508907-c90c4588-e01b-4499-9cd2-9bba96019b96.png)
  
+ Goes to the domain in active directory users and computers. Using the new organization button looks like a map with a sun on to create new organizational unit in the current container. Gives the name HomeLab, I right click on Simon Major user that was saved/created in users and right click “move” to HomeLab. From the folder computer I moved both domains “Win-DCC and Win-2x-DC" to our new organization.   
+
+Create a new group for the organization I named Lab-Department.  
+![image](https://user-images.githubusercontent.com/42642927/217889911-5d3cc6cb-c7df-4a96-95fd-424c09a315b8.png)
