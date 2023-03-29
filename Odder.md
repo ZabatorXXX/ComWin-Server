@@ -7,3 +7,8 @@ Del 1.
 
 Del 2.
 [https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md](https://github.com/ZabatorXXX/ComWin-Server/blob/9049091ad29e3097e3fd34827926cd51fd6cd184/Creating-Domain.md)
+
+
+![image](https://user-images.githubusercontent.com/42642927/228580026-701de689-c737-43f5-bfa4-69ec1c6ab5ef.png)
+
+https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#4-creating-users-for-the-domain 
