@@ -130,3 +130,12 @@ Click on Domain Admins so it is selected. Go to members and press “Add...” E
 
 Create a new group for the organization I named Lab-Department.  
 ![image](https://user-images.githubusercontent.com/42642927/217889911-5d3cc6cb-c7df-4a96-95fd-424c09a315b8.png)
+Adds Simon Major user to group.
+
+Turns Lab-Department into administrative group by adding administrators in member of part in Lab-Department properties. 
+
+![image](https://user-images.githubusercontent.com/42642927/217890624-f3d7f4e6-8b1a-4933-b468-e923635dec63.png)
+
+Go to cmd and type gpupdate to update group polices and updating changes we have done.
+
+![image](https://user-images.githubusercontent.com/42642927/228570440-420cc146-4911-49ea-be80-bbae39bfbca3.png)
