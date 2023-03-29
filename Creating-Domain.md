@@ -122,7 +122,7 @@ In win-DC we go under tools in server manager. In tools we select active directo
 Next for password where I'm using: WordPass123! .
 And select never expire so we don’t have to change password when we sign in for the first time. 
 This user will be a domain admin, so we don’t have to sign in with server administrator user. So, move the user to groupe: Domain Admins.
-Click on Domain Admins so it is selected. Go to members and press “Add...” Enter the name Sim, and check names until Simon Major user is selected then ok.  
+Click on Domain Admins so it is selected. Go to members and press “Add...” Enter the name Sim, and check names until Simon Major user is selected then ok then hit apply if you happy with the changes.  
 
 ![image](https://user-images.githubusercontent.com/42642927/228508907-c90c4588-e01b-4499-9cd2-9bba96019b96.png)
  
