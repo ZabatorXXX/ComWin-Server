@@ -139,3 +139,9 @@ Turns Lab-Department into administrative group by adding administrators in membe
 Go to cmd and type gpupdate to update group polices and updating changes we have done.
 
 ![image](https://user-images.githubusercontent.com/42642927/228570440-420cc146-4911-49ea-be80-bbae39bfbca3.png)
+
+I make it possible for Simon user to be able to use remote desktop to the VM by adding it in remote desktop: 
+
+Press, “Select user that can remotely access the pc”. Then add, type Simon and check name then press ok.  
+
+![image](https://user-images.githubusercontent.com/42642927/228573878-61f54549-5966-4628-ab6e-1107a16e7cb4.png)
