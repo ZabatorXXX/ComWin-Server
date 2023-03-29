@@ -113,3 +113,10 @@ Result:
 
 ![image](https://user-images.githubusercontent.com/42642927/227949821-893b491e-de7d-4e70-be2a-7804930df7bd.png)
 
+## 4. Creating users for the domain
+
+In win-DC we go under tools in server manager. In tools we select active directory users and computers. Oppen up the domain – SimonHomeLab.com, right click on folder users and select new > user. 
+
+![image](https://user-images.githubusercontent.com/42642927/217865806-ab6e7563-b735-4824-b575-6018a8b17562.png)
+ 
+Password WordPass123! And select never expire so we don’t have to change password when we sign in for the first time. 
