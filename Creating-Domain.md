@@ -145,3 +145,17 @@ I make it possible for Simon user to be able to use remote desktop to the VM by 
 Press, “Select user that can remotely access the pc”. Then add, type Simon and check name then press ok.  
 
 ![image](https://user-images.githubusercontent.com/42642927/228573878-61f54549-5966-4628-ab6e-1107a16e7cb4.png)
+
+DHCP 
+
+ 
+
+Download DHCP from server manager “add roles and features” select role-based installation type, then server now server role DHCP next on features. In DCHP Server select next then install.  
+
+ 
+
+Complete DHCP config.
+
+Next, have SIMONHOMELAB\administrator as selected user and commit. Result in:
+
+![image](https://user-images.githubusercontent.com/42642927/228664545-f5d1bc3d-a6f0-45a1-90ae-6a5914bd945a.png)
