@@ -146,7 +146,7 @@ Press, “Select user that can remotely access the pc”. Then add, type Simon a
 
 ![image](https://user-images.githubusercontent.com/42642927/228573878-61f54549-5966-4628-ab6e-1107a16e7cb4.png)
 
-DHCP 
+## 5. Configuring DHCP 
 
  
 
