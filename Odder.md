@@ -11,7 +11,13 @@ Del 2.
 
 ![image](https://user-images.githubusercontent.com/42642927/228580026-701de689-c737-43f5-bfa4-69ec1c6ab5ef.png)
 
+* Users
+
 https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#4-creating-users-for-the-domain 
+
+https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#6-new-user---sharing-file-between-users
+
+* rules
 
 ![image](https://user-images.githubusercontent.com/42642927/228581919-4de5daf7-28ed-4815-a020-25411b1c7e7a.png)
 
