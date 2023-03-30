@@ -189,5 +189,5 @@ Go to sharing, press advanced sharing use the check mark in “share this folder
 
 I copy the network path: \\WIN-DC\shared-folder and sign out from the administrative account to sign in with the new user.  When signed in as new user go to file explorer, quick access and type in \\WIN-DC\shared-folder to then see the shared folder when selected.  
 
-![image](https://user-images.githubusercontent.com/42642927/228838371-a9ff0e03-d8cd-4d86-b17a-85e96918239c.png)
+![image](https://user-images.githubusercontent.com/42642927/228838543-0d971d88-bd31-4775-8d59-724525fa59cc.png)
 ![image](https://user-images.githubusercontent.com/42642927/228838074-359a0c55-7f0b-4183-9207-0cf0a7dd1c68.png)
