@@ -168,3 +168,11 @@ Enter IP addresses range, Start IP 10.0.100.65 addresses: End IP address: 10.0.1
 
 ![image](https://user-images.githubusercontent.com/42642927/228809263-35997819-9e4e-4b56-b700-cd8c21135cc1.png)
 
+## 6. New user - Sharing file between users
+
+Go to active directory users and computers. Create a new user, give first name: “Extra”, last name: “Extra” and full name is “Extra User1”.
+The logon name will be “Extra-User1”.  
+
+![image](https://user-images.githubusercontent.com/42642927/228812765-4d80ea73-849a-443b-91ba-326c8e0c4385.png)
+
+
