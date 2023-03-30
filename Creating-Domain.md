@@ -176,3 +176,5 @@ The logon name will be “Extra-User1”.
 ![image](https://user-images.githubusercontent.com/42642927/228812765-4d80ea73-849a-443b-91ba-326c8e0c4385.png)
 
 
+The password I'm giving the user is: WordPass1234!  
+Adds the user to administrator “member”.  
