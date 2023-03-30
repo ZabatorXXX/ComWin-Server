@@ -183,4 +183,7 @@ Adds the user to administrator “member”. Now we have the second user it is t
 
 ![image](https://user-images.githubusercontent.com/42642927/228832326-4b2ed209-7121-47c8-a9b8-169c26541cdf.png)
 
+Go to sharing, press advanced sharing use the check mark in “share this folder” and hit apply/ok. When done should look something like this: 
+
+![image](https://user-images.githubusercontent.com/42642927/228832897-c5b40928-2234-46cd-89e3-4799ecbe7192.png)
 
