@@ -178,3 +178,9 @@ The logon name will be “Extra-User1”.
 
 The password I'm giving the user is: WordPass1234!  
 Adds the user to administrator “member”.  
+
+Adds the user to administrator “member”. Now we have the second user it is time to create a folder that we will share between users. I create the folder that will be stored on the desktop. Name it to shared-folder. Right click on the map to access map properties. Go to the security part and to be extra sure the user has access we will add the user and gives full access.  
+
+![image](https://user-images.githubusercontent.com/42642927/228832326-4b2ed209-7121-47c8-a9b8-169c26541cdf.png)
+
+
