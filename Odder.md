@@ -19,6 +19,8 @@ https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#6-new-u
 
 * rules
 
+https://github.com/ZabatorXXX/ComWin-Server/blob/main/Creating-Domain.md#5-configuring-dhcp
+
 ![image](https://user-images.githubusercontent.com/42642927/228581919-4de5daf7-28ed-4815-a020-25411b1c7e7a.png)
 
 https://github.com/ZabatorXXX/ComWin-Server/blob/main/Tools-for-better-access.md#2-remote-access
