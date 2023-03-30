@@ -159,3 +159,12 @@ Complete DHCP config.
 Next, have SIMONHOMELAB\administrator as selected user and commit. Result in:
 
 ![image](https://user-images.githubusercontent.com/42642927/228664545-f5d1bc3d-a6f0-45a1-90ae-6a5914bd945a.png)
+
+Now I set up a new scope from tools DHCP. Right click on Ipv4 inside the DHCP tool. Name it Lab and next. 
+
+![image](https://user-images.githubusercontent.com/42642927/228809611-a3386b29-e3d9-4ef3-8876-16063ea6fb4c.png)
+
+Enter IP addresses range, Start IP 10.0.100.65 addresses: End IP address: 10.0.100.70. Skip exclusion, next, next, next and 10.0.100.1 as Default Gateway. Next, next and yes activate scope then finish.  
+
+![image](https://user-images.githubusercontent.com/42642927/228809263-35997819-9e4e-4b56-b700-cd8c21135cc1.png)
+
