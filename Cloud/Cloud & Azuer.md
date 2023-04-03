@@ -16,11 +16,26 @@ Create V Net
 ### 4.Strat with Ip configuration
 ![image](https://user-images.githubusercontent.com/42642927/227195927-bba5e9d0-2895-43b1-a0b4-082df4d5997d.png)
 
+New:
+
+![image](https://user-images.githubusercontent.com/42642927/229466500-788df255-297c-445c-b0c4-9770fd89851c.png)
+
+
 ### 5. Create subnet
 ![image](https://user-images.githubusercontent.com/42642927/227196651-f991f34a-7ed1-4c8e-86b5-ff7452f338c9.png)
 
+New:
+
+![image](https://user-images.githubusercontent.com/42642927/229466949-9c3bcfea-6369-4d74-afab-be3046b9162b.png)
+
+
 ### 6. Review + create
 ![image](https://user-images.githubusercontent.com/42642927/227198050-914c5399-7a78-4008-8d86-804e0b07c2e4.png)
+
+New:
+
+![image](https://user-images.githubusercontent.com/42642927/229467283-f063c058-c1a2-4e6f-b81b-8d715dfb5345.png)
+
 
 ### 7. Create a Gateway Subnet 
 ![image](https://user-images.githubusercontent.com/42642927/227204663-c927ebae-3716-4de7-8c4f-1c3c32538df1.png)
