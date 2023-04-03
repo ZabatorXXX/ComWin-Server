@@ -63,3 +63,36 @@ On the page I select the orange download button to download the application.
 ![image](https://user-images.githubusercontent.com/42642927/228237987-42b31f52-f565-44fd-b2d5-caf86a083a09.png)
 
 ![image](https://user-images.githubusercontent.com/42642927/228240097-e6cb9d08-39a2-43f6-a959-b27d59dd3422.png)
+
+AZ AD connect new user
+
+![image](https://user-images.githubusercontent.com/42642927/229614319-d6b12cc0-3c55-4ec6-96e8-047942eb2037.png)
+
+Sign in:
+
+![image](https://user-images.githubusercontent.com/42642927/229614618-1dbd71e4-9cde-4dcf-bbfa-616ff6afa8da.png)
+
+Add setting security:
+
+![image](https://user-images.githubusercontent.com/42642927/229615056-aeb02fc5-e492-4ff9-9546-d564fe3b7a07.png)
+
+azuer account:
+
+![image](https://user-images.githubusercontent.com/42642927/229615137-0eda7095-5240-44ae-8f54-f914162736c5.png)
+![image](https://user-images.githubusercontent.com/42642927/229619269-dc0e80bb-b234-4807-a744-235b1e94f889.png)
+
+
+udate new password
+
+
+
+![image](https://user-images.githubusercontent.com/42642927/229620428-84ae25ca-d1e2-4328-9ae3-cd1ae0b0a34f.png)
+
+![image](https://user-images.githubusercontent.com/42642927/229620521-5ab6ae2d-b5d3-4911-8575-00ac8f67a71c.png)
+
+and install
+
+
+![image](https://user-images.githubusercontent.com/42642927/229621392-386d0602-ae10-499e-a5e8-4546232a969a.png)
+
+
