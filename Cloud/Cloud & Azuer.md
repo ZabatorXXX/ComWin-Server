@@ -148,5 +148,6 @@ https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-creating-an-
 
 https://www.youtube.com/watch?v=Gb3YE-0gBWQ&t=911s
 
-
-
+https://www.youtube.com/watch?v=MorG47BTttU&t=597s 
+ 
+https://www.youtube.com/watch?v=K0hgCWIbC1A
