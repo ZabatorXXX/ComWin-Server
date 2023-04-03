@@ -109,6 +109,12 @@ Thumbprint                                Subject
 ![image](https://user-images.githubusercontent.com/42642927/227248746-cf0676d4-58ec-4bd8-a003-9a4a7e2bcabc.png)
 
 
+Azuer... Configure Point-to-Site Connection 
+
+
+![image](https://user-images.githubusercontent.com/42642927/229499514-8a54707b-d28a-4062-b137-4e74f1f632c1.png)
+
+
 AzuerUser
 
 Password12345!
