@@ -87,6 +87,9 @@ Client certificate:
 ```
 New-SelfSignedCertificate -Type Custom -DnsName SIMONHOMELAB -KeySpec Signature -Subject "CN= WinSec-CLIENT " -KeyExportPolicy Exportable -HashAlgorithm sha256 -KeyLength 2048 -CertStoreLocation "Cert:\CurrentUser\My" -Signer $cert -TextExtension @("2.5.29.37={text}1.3.6.1.5.5.7.3.2") 
 ```
+
+![image](https://user-images.githubusercontent.com/42642927/227248838-9a1da3fc-01a5-431b-a5a6-b68bf1926249.png)
+
 New:
 ```
 PS C:\Users\simon> certmgr
@@ -102,9 +105,6 @@ Thumbprint                                Subject
 
 
 ```
-![image](https://user-images.githubusercontent.com/42642927/227248838-9a1da3fc-01a5-431b-a5a6-b68bf1926249.png)
-
-
 ### 13. Type Certmgr in PowerShell and go to personal user certificats 
 ![image](https://user-images.githubusercontent.com/42642927/227248746-cf0676d4-58ec-4bd8-a003-9a4a7e2bcabc.png)
 
