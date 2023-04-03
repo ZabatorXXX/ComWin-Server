@@ -92,7 +92,7 @@ New-SelfSignedCertificate -Type Custom -DnsName SIMONHOMELAB -KeySpec Signature 
 
 New:
 ```
-PS C:\Users\simon> certmgr
+
 PS C:\Users\simon> $cert = New-SelfSignedCertificate -Type Custom -KeySpec Signature -Subject "CN=WinSec-Root" -KeyExportPolicy Exportable -HashAlgorithm sha256 -KeyLength 2048 -CertStoreLocation "Cert:\CurrentUser\My" -KeyUsageProperty Sign -KeyUsage CertSign
 PS C:\Users\simon> New-SelfSignedCertificate -Type Custom -DnsName SIMONHOMELAB -KeySpec Signature -Subject "CN= WinSec-CLIENT " -KeyExportPolicy Exportable -HashAlgorithm sha256 -KeyLength 2048 -CertStoreLocation "Cert:\CurrentUser\My" -Signer $cert -TextExtension @("2.5.29.37={text}1.3.6.1.5.5.7.3.2")
 
@@ -101,7 +101,7 @@ PS C:\Users\simon> New-SelfSignedCertificate -Type Custom -DnsName SIMONHOMELAB 
 
 Thumbprint                                Subject
 ----------                                -------
-2778BE7A1BC84F12A3B980250CF54B00B69BE079  CN=WinSec-CLIENT
+5B2B9D9848665699DB2C66ABA9910C68D6246575  CN=WinSec-CLIENT
 
 
 ```
