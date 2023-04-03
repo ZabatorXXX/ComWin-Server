@@ -70,6 +70,11 @@ New:
 ### 11. Review + create 
 ![image](https://user-images.githubusercontent.com/42642927/227211187-97c7a8f6-082c-4188-a1c1-15e11ce5cece.png)
 
+New:
+
+![image](https://user-images.githubusercontent.com/42642927/229470222-e0ba1118-45a3-4b7b-9669-2c47797d6d59.png)
+
+
 ### 12. Open PowerShell and create Self-sign root - client certificate 
 
 Root cert: 
