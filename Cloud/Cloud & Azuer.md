@@ -40,6 +40,13 @@ New:
 ### 7. Create a Gateway Subnet 
 ![image](https://user-images.githubusercontent.com/42642927/227204663-c927ebae-3716-4de7-8c4f-1c3c32538df1.png)
 
+New:
+
+1. ![image](https://user-images.githubusercontent.com/42642927/229468145-729e3016-8d0c-4835-bdd1-74e52d344c6f.png)
+
+2. ![image](https://user-images.githubusercontent.com/42642927/229468554-2881fca9-763d-41eb-8125-aae2c87e5392.png)
+
+
 ### 8. Create Virtual Network Gateway 
 
 ![image](https://user-images.githubusercontent.com/42642927/227206961-9e3e536d-4cd5-4a5b-9089-500d15a6604b.png)
