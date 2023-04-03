@@ -115,13 +115,38 @@ Azuer... Configure Point-to-Site Connection
 ![image](https://user-images.githubusercontent.com/42642927/229499514-8a54707b-d28a-4062-b137-4e74f1f632c1.png)
 
 
+# Create VM in Cloud
+
+
+1. ![image](https://user-images.githubusercontent.com/42642927/229638741-58ce317f-4d5d-43d9-82ae-07b854e69f47.png)
+
+2. ![image](https://user-images.githubusercontent.com/42642927/229638983-ce09157d-e8f5-43ca-906c-b61caa97eb46.png)
+
+3. ![image](https://user-images.githubusercontent.com/42642927/229639180-99b33bec-e113-430b-b8ec-1a8c110f048d.png)
+
+4. ![image](https://user-images.githubusercontent.com/42642927/229639286-cbaa4ae5-0e75-47aa-9ff6-d2a2f0789539.png)
+
+5. ![image](https://user-images.githubusercontent.com/42642927/229639533-3a061223-8523-4849-b4dc-94df294e95ee.png)
+
+6. ![image](https://user-images.githubusercontent.com/42642927/229639575-f18bb9b9-6927-43a7-8257-b02b70616fa6.png)
+
 AzuerUser
 
 Password12345!
 
-Sorce:
+7. ![image](https://user-images.githubusercontent.com/42642927/229639656-ea18d99f-6393-4eff-b019-44f86fc7439e.png)
+
+8. Networkin
+
+
+
+
+
+Sorce: - For VPN/Gatway
 
 https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-creating-an-azure-point-to-site-vpn/ba-p/326264
 
 https://www.youtube.com/watch?v=Gb3YE-0gBWQ&t=911s
+
+
 
