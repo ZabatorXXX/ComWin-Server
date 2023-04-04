@@ -117,24 +117,23 @@ Azuer... Configure Point-to-Site Connection
 
 # Create VM in Cloud
 
+1. Creating the VM
+ 
+![image](https://user-images.githubusercontent.com/42642927/229821525-b2cad283-2d13-4e15-8fc6-1a5227ca29c6.png)
 
-1. ![image](https://user-images.githubusercontent.com/42642927/229638741-58ce317f-4d5d-43d9-82ae-07b854e69f47.png)
+2. Adding network to VM
 
-2. ![image](https://user-images.githubusercontent.com/42642927/229638983-ce09157d-e8f5-43ca-906c-b61caa97eb46.png)
+![image](https://user-images.githubusercontent.com/42642927/229822090-3ec2c044-9cea-42d0-83b4-c35e6bfb1a92.png)
 
-3. ![image](https://user-images.githubusercontent.com/42642927/229639180-99b33bec-e113-430b-b8ec-1a8c110f048d.png)
+4. And create 
 
-4. ![image](https://user-images.githubusercontent.com/42642927/229639286-cbaa4ae5-0e75-47aa-9ff6-d2a2f0789539.png)
-
-5. ![image](https://user-images.githubusercontent.com/42642927/229639533-3a061223-8523-4849-b4dc-94df294e95ee.png)
-
-6. ![image](https://user-images.githubusercontent.com/42642927/229639575-f18bb9b9-6927-43a7-8257-b02b70616fa6.png)
+![image](https://user-images.githubusercontent.com/42642927/229827025-d0fc5f6a-7a20-410a-a516-fab52c5ae15d.png)
 
 AzuerUser
 
 Password12345!
 
-7. ![image](https://user-images.githubusercontent.com/42642927/229639656-ea18d99f-6393-4eff-b019-44f86fc7439e.png)
+
 
 8. Networkin
 
