@@ -115,6 +115,14 @@ Azuer... Configure Point-to-Site Connection
 ![image](https://user-images.githubusercontent.com/42642927/229499514-8a54707b-d28a-4062-b137-4e74f1f632c1.png)
 
 
+Network Rule to allow ping:
+
+```
+ New-NetFirewallRule -DisplayName "Allow-Ping" -Protocol icmpv4
+```
+![image](https://user-images.githubusercontent.com/42642927/229912962-c565c55b-815f-474e-8d0b-b3e13c150db5.png)
+
+
 # Create VM in Cloud
 
 1. Creating the VM
