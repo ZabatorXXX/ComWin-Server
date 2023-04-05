@@ -194,4 +194,10 @@ Deploy Azure File Sync
 3. ![image](https://user-images.githubusercontent.com/42642927/230083578-c6210f8a-5a4b-4725-8dc1-30b75d0897c6.png)
 4. Go thought the instalation steps and install
 5. When every thing is finished I sign in with Azuer User in Azuer file sync on server. 
+6. And register:
+![image](https://user-images.githubusercontent.com/42642927/230085649-cdd4e87b-50d8-4828-b9dd-a4fa434ea2fb.png)
+7. Prese close:
 
+![image](https://user-images.githubusercontent.com/42642927/230085949-0b90e2a0-dbb2-4a07-9b0e-7b87e0c85f3b.png)
+
+8. Go back on Azuer > select sync groupe > add server endpoint
