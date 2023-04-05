@@ -158,3 +158,40 @@ https://www.youtube.com/watch?v=Gb3YE-0gBWQ&t=911s
 https://www.youtube.com/watch?v=MorG47BTttU&t=597s 
  
 https://www.youtube.com/watch?v=K0hgCWIbC1A
+
+
+9. Storage,
+
+1. Create storage space
+
+![image](https://user-images.githubusercontent.com/42642927/230078875-90d0a59c-232c-4525-b085-d9073e64caef.png)
+![image](https://user-images.githubusercontent.com/42642927/230079266-a0be9c83-824d-437f-861f-8a1a452b22e4.png)
+![image](https://user-images.githubusercontent.com/42642927/230079678-a3d4a030-c0cf-4cc0-8fbf-8c1e85ee866a.png)
+
+2. Go to resorse > Data storage "File share"
+3. New file share:
+
+![image](https://user-images.githubusercontent.com/42642927/230080583-a17268ce-2bbb-4bec-a363-62ca57cbddf9.png)
+
+4. create
+5. Go to deploy azure file sync
+
+![image](https://user-images.githubusercontent.com/42642927/230081170-b3ec3886-11f5-4453-9bcc-33425ccaaa6b.png)
+
+6. Create
+
+7.Go yo resorce
+
+8. New sync groupe
+
+![image](https://user-images.githubusercontent.com/42642927/230081819-46a04f9a-cbfd-4c59-993e-bd891bfe647a.png)
+
+
+Deploy Azure File Sync
+
+1. Logg in to Server in cloud
+2. Dowload server agent "https://www.microsoft.com/en-us/download/details.aspx?id=57159" 
+3. ![image](https://user-images.githubusercontent.com/42642927/230083578-c6210f8a-5a4b-4725-8dc1-30b75d0897c6.png)
+4. Go thought the instalation steps and install
+5. When every thing is finished I sign in with Azuer User in Azuer file sync on server. 
+
