@@ -200,4 +200,30 @@ Deploy Azure File Sync
 
 ![image](https://user-images.githubusercontent.com/42642927/230085949-0b90e2a0-dbb2-4a07-9b0e-7b87e0c85f3b.png)
 
-8. Go back on Azuer > select sync groupe > add server endpoint
+
+8. Go back on Azuer > Get connect script form file sare and choos driver letter
+9. Run script in powershell on server in cloud:
+
+```
+$connectTestResult = Test-NetConnection -ComputerName winsec.file.core.windows.net -Port 445
+if ($connectTestResult.TcpTestSucceeded) {
+    # Save the password so the drive will persist on reboot
+    cmd.exe /C "cmdkey /add:`"winsec.file.core.windows.net`" /user:`"localhost\winsec`" /pass:`"iWuRfdkW7LiS22db1hwXQtVgiGe+c3rN4fCiziy8zuGyTOUQepvbt28Ms6JzHWbq+nNY2+1chaBd+AStGY2zBg==`""
+    # Mount the drive
+    New-PSDrive -Name S -PSProvider FileSystem -Root "\\winsec.file.core.windows.net\clode-share" -Persist
+} else {
+    Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN, Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
+}
+```
+![image](https://user-images.githubusercontent.com/42642927/230107643-3aa0cfd7-3038-435a-8c83-ffae78d1e0a6.png)
+
+
+11. select sync groupe > add server endpoint
+
+![image](https://user-images.githubusercontent.com/42642927/230108486-33b5bae9-298d-486d-bee3-04966d4cc681.png)
+
+12. 
+https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/7-deploy-azure-file-synchronization
+https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/8-deploy-azure-file-synchronization-2
+https://www.youtube.com/watch?v=BCzeb0IAy2k
+
