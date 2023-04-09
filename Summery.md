@@ -660,3 +660,14 @@ https://www.youtube.com/watch?v=BCzeb0IAy2k
 
 
 14. Deffernder
+
+In Windows Admin Center Tools panel I select Microsoft Defender for Cloud extension
+Use Sign in to Azure and set up.
+
+I followd the instructions for connecting server to Defender for Cloud. After I entered the necessary details and confirmed. Defender will makes the necessary configuration changes to ensure the following:
+
+* An Azure Gateway is registered.
+* The server has a workspace to report to and an associated subscription.
+* Defender for Cloud's Log Analytics solution is enabled on the workspace. This solution provides Microsoft Defender for Cloud's features for all servers and virtual    machines reporting to this workspace.
+* Microsoft Defender for Servers is enabled on the subscription.
+* The Log Analytics agent is installed on the server and configured to report to the selected workspace. If the server already reports to another workspace, it's configured to report to the newly selected workspace as well.
