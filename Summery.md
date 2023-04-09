@@ -658,3 +658,5 @@ https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-
 https://learn.microsoft.com/en-us/training/modules/implement-hybrid-file-server-infrastructure/8-deploy-azure-file-synchronization-2
 https://www.youtube.com/watch?v=BCzeb0IAy2k
 
+
+14. Deffernder
